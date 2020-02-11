@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aifetohvej.willhbr.net/sitemap.xml
